@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788227828176",
+    "project_id": "days-26834",
+    "storage_bucket": "days-26834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788227828176:android:d43e11ea0c1f48e5bc71d5",
+        "android_client_info": {
+          "package_name": "com.example.thirty_widgets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe7ARNC0jtJBQQcuu9ZceXthQ5g7p6-rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
